@@ -1,0 +1,1 @@
+print("The convention or style guide in python is defined by seperating the variable ,if it contains out of two words ( example player_weight),with the underscore _ and the variable is written in lowercase letters") 

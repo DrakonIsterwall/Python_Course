@@ -1,0 +1,1 @@
+print("You can give as example every variable the value 1 with a=1 b=1 c=1 or for easier coding use a=b=c=1")

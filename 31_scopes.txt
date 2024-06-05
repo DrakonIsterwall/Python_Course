@@ -1,0 +1,22 @@
+With the term scope/scopes its meant that we have to know where a variable is defined and when its valid.
+
+as example :
+
+if new_variable == 5:
+	print("In scope")
+
+new_variable = 5
+
+Here we would get an error in the code because the new variable is not in scope anymore.
+The new_variable is defined after the first use of it so how should it know if the value is 5 or not.Thats why it is out of scope.
+
+new_variable = 5
+
+if new_variable == 5:
+	print("In scope")
+
+
+In this case the code would work because the variable is defined before the use case of it.
+You have to be aware that the variables,functions and many more things you wanna use are already defined somewhere before you wanna use them.
+
+
